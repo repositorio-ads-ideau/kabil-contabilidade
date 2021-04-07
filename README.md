@@ -21,16 +21,16 @@ Este projeto web realiza a comunicação com o usuário, e está conectado com o
 ### Back end
 
 > Abra a IDE Eclipse e importe o projeto: **back-end-kabil**.
-![alt text](https://github.com/peedroguerra/image-tutorials/blob/main/importar-projeto-eclipse.PNG)
+![alt text](https://github.com/peedroguerra/desktop-tutorial/blob/main/importar-projeto-eclipse.PNG)
 
 > Abrir o **XAMMP** e acionar os serviços do Apache, e MySql.
-![alt text](https://github.com/peedroguerra/image-tutorials/blob/main/iniciar-servicos-xammp.PNG)
+![alt text](https://github.com/peedroguerra/desktop-tutorial/blob/main/iniciar-servicos-xammp.PNG)
 
 > Criar uma base de dados chamado: **kabil**.
-![alt text](https://github.com/peedroguerra/image-tutorials/blob/main/criar-base-dados.PNG)
+![alt text](https://github.com/peedroguerra/desktop-tutorial/blob/main/criar-base-dados.PNG)
 
 > Executar o arquivo principal como uma aplicação Java.
-![alt text](https://github.com/peedroguerra/image-tutorials/blob/main/executar-arquivo-principal.PNG)
+![alt text](https://github.com/peedroguerra/desktop-tutorial/blob/main/executar-arquivo-principal.PNG)
 
 Neste momento, quando a aplicação estiver executando, você pode testar as rotas da aplicação, com o programa Postman, as rotas  se encontram na documentação do Swagger.
 
@@ -39,7 +39,7 @@ Neste momento, quando a aplicação estiver executando, você pode testar as rot
 > Abra a pasta do projeto: **front-end-kabil** no Visual Studio Code.
 
 > Abra um novo terminal no próprio Visual Studio, e digite `npm install`para instalar as depêndencias do projeto.
-![alt text](https://github.com/peedroguerra/image-tutorials/blob/main/instalando-dependencias-npm.PNG)
+![alt text](https://github.com/peedroguerra/desktop-tutorial/blob/main/instalando-dependencias-npm.PNG)
 
 > Terminado as etapas, você será redirecionado para o endereço local do jogo, abrindo seu navegador principal na tela inicial da aplicação.
 
