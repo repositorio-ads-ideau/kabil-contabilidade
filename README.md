@@ -41,6 +41,8 @@ Neste momento, quando a aplicação estiver executando, você pode testar as rot
 > Abra um novo terminal no próprio Visual Studio, e digite `npm install`para instalar as depêndencias do projeto.
 ![alt text](https://github.com/peedroguerra/desktop-tutorial/blob/main/instalando-dependencias-npm.PNG)
 
+> Digite o comando `npm start` para inicializar a aplicação.
+
 > Terminado as etapas, você será redirecionado para o endereço local do jogo, abrindo seu navegador principal na tela inicial da aplicação.
 
 ### Guia para o desenvolvedor
